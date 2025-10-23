@@ -2,7 +2,7 @@ Testspiel - 05.10.2026
 Name,Tischnummer,PAX,Bemerkungen
 Anton Müller,5,9,Test
 Inge,10,8,Test
-#ANMERKUNGEN,Maxi Mustermann ohne Ticket
+#ANMERKUNGEN,Maxi Mustermann ohne Ticket, Anna auch, Und Anton
 ,,,
 ,,,
 ,,,
