@@ -1,17 +1,17 @@
-Testspiel - 05.10.2026
+Testspiel - 25.10.2026
 Name,Tischnummer,PAX,Bemerkungen
 Anton Müller,31,9,Test
 Inge,30,8,Test
 Deutscher Basketballbund,1,,
 COMLINE,2,,
-Alsdorf, Ralph,3,,
+Alsdorf Ralph,3,,
 Allianz Beratungs- und Vertriebs-AG - Vertriebsdirektion Berlin,4,,
 COMLINE,5,,
 adidas AG,6,,
 adidas AG,7,,
 adidas AG,8,,
 Präsidium,9,,
-Consterdine, John,10,,
+Consterdine John,10,,
 Wolfgang Blum GmbH & Co. KG ,11,,
 Cleinow Systemberatung,12,,
 Discus Physiotherapie,13,,
@@ -29,7 +29,7 @@ Pneuhage Fleet Solution GmbH,24,,
 Löwe HG,25,,
 AWU Ostprignitz-Ruppin GmbH,26,,
 Blitzschutzanlagenbau Frank Macke,27,,
-Brendler, Robert,28,,
+Brendler Robert,28,,
 B.E.S.T. Veranstaltungsdienste GmbH Berlin,29,,
 #ANMERKUNGEN, Anton ohne Ticket
 #ANMERKUNGEN, Gerda auch
