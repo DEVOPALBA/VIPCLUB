@@ -2,9 +2,9 @@ Testspiel - 05.10.2026
 Name,Tischnummer,PAX,Bemerkungen
 Anton Müller,5,9,Test
 Inge,10,8,Test
-#ANMERKUNGEN,MAXI Mustermann,ANTON Test,Hallo
-,,,
-,,,
+#ANMERKUNGEN,MAXI Mustermann
+Anton Gerd,,,
+Test,,,
 ,,,
 ,,,
 ,,,
