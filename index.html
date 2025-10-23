@@ -90,7 +90,7 @@ th:nth-child(4), td:nth-child(4) { width:420px; }                   /* Bemerkung
   50%  { stroke:#00aa00; stroke-width:6px; fill:rgba(0,255,0,0.2);}
   100% { stroke:#00ff00; stroke-width:3px; fill:rgba(0,255,0,0.75);}
 }
-.blink { animation: blinkGreen 0.5s ease-in-out infinite; }
+.blink { animation: blinkGreen 0.3s ease-in-out infinite; }
 </style>
 </head>
 
@@ -329,7 +329,7 @@ for(const id in koordinaten){
   const c=document.createElementNS(svgNS,"circle");
   c.setAttribute("cx",koordinaten[id].cx);
   c.setAttribute("cy",koordinaten[id].cy);
-  c.setAttribute("r",13);
+  c.setAttribute("r",15);
   c.setAttribute("fill","transparent");
   c.setAttribute("stroke","transparent");
   c.setAttribute("stroke-width",2);
@@ -608,6 +608,7 @@ window.addEventListener("beforeunload", (event) => {
 </script>
 </body>
 </html>
+
 
 
 
