@@ -2,14 +2,14 @@ FC Bayern München - 26.10.2026
 Name,Tischnummer,PAX,Bemerkungen
 frei,1,,
 COMLINE,2,4,
-Alsdorf, Ralph,3,4,
+Alsdorf Ralph,3,4,
 DKB Service GmbH,4,2,
 COMLINE,5,2,zu Tisch 2 stellen
 garmo AG,6,4,
 adidas AG,7,4,
 adidas AG,8,4,
 Präsidium,9,5,
-Consterdine, John,10,2,
+Consterdine John,10,2,
 Wolfgang Blum GmbH & Co. KG ,11,4,
 Cleinow Systemberatung,12,4,4er-Tisch
 Amazon Development Center Germany GmbH,13,2,
@@ -27,7 +27,7 @@ Pneuhage Fleet Solution GmbH,24,4,
 Löwe HG,25,2,
 AWU Ostprignitz-Ruppin GmbH,26,4,
 ALBA plc & Co. KG,27,7,Fr. Molocznik
-Endres, Daniel,28,4,RESERVIERT
+Endres Daniel,28,4,RESERVIERT
 AMRIT III GmbH,29,2,
 Bikeleasing-Service GmbH & Co. KG,30,4,
 Bikeleasing-Service GmbH & Co. KG,31,4,
@@ -36,10 +36,10 @@ garmo AG,33,4,
 Wipfler Brackrogge Bertram Rechtsanwälte und Steuerberater PartG mbB,34,2,
 F&K Unity GbR,35,2,
 Think.Health Hygiene Solutions GmbH,36,2,
-Dam, Dieu Linh,37,4,
+Dam Dieu Linh,37,4,
 ALBA BERLIN Basketballteam - Justus Strauven,38,2,Kaweh Niroomand 
 Transmess GmbH,39,2,
-Melendez, Alexandra ,40,2,
+Melendez Alexandra ,40,2,
 interzero,41,4,Lawrence Leuschner
 garmo AG,42,4,
 garmo AG,43,4,
@@ -81,7 +81,7 @@ Grant Thornton AG Wirtschaftsprüfungsgesellschaft,78,2,Eva Schein
 Landessportbund Berlin e.V.,79,4,Thomas Härtel
 Apotheke im Weyhegarten/Spitzweg-Apotheke,80,4,
 Berliner Basketballverband,81,2,
-Mayer, Robert,82,2,
+Mayer Robert,82,2,
 frei,83,,
 frei,84,,
 frei,85,,
